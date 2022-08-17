@@ -1,0 +1,23 @@
+[
+    {
+        "materia": "Matemática",
+        "dificultad": "Alta",
+        "preguntas": 10
+        
+ 
+    },
+    {
+        "materia": "Historia",
+        "dificultad": "Media",
+        "preguntas": 12
+    
+ 
+    },
+    {
+        "materia": "Física",
+        "dificultad": "Alta",
+        "preguntas": 9
+        
+ 
+    }
+]
